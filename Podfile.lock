@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.8.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (7.0.0)
+  - SDWebImage (5.18.10):
+    - SDWebImage/Core (= 5.18.10)
+  - SDWebImage/Core (5.18.10)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FMDB
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FMDB
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: bd69f3a49f6ead9cb6ce17723cf0c6c9b948d83e
+  SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 0142488ef1be6a726b55aa03855d4f6450358746
+
+COCOAPODS: 1.12.1
